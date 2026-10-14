@@ -1,0 +1,1 @@
+<resources><string name="app_name">ReelGuard</string><string name="accessibility_description">Checks visible labels in Instagram, YouTube, and Facebook for short-video feeds. When detected, returns Home and shows a restriction message. No content is transmitted.</string></resources>
